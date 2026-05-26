@@ -1,0 +1,14 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Büyük veri setleri ve loglar (Gereksiz şişmeyi önlemek için)
+*.json
+*.png
+*.pcd
+*.ply
+*.bin
+
+# Sanal ortam klasörleri (Eğer kullanıyorsan)
+venv/
+.venv/
